@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #42A5F5;
+}
+
+.header {
+  text-align: center;
+  margin-top: 1.75em;
+  font-family: "Questrial", sans-serif;
+  color: white;
+  font-size: 5em;
+}
+
+#sign-in {
+  margin: auto;
+}
+
+#fb-login {
+  
+}
